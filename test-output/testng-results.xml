@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5343" started-at="2020-08-04T09:25:18 UTC" finished-at="2020-08-04T09:25:23 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5343" started-at="2020-08-04T09:25:18 UTC" finished-at="2020-08-04T09:25:23 UTC">
+      <class name="com.maventest.test.maventest">
+        <test-method status="PASS" signature="firsttest()[pri:0, instance:com.maventest.test.maventest@3b084709]" name="firsttest" duration-ms="4485" started-at="2020-08-04T09:25:18 UTC" finished-at="2020-08-04T09:25:22 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.maventest.test.maventest@3b084709]" name="closeBrowser" is-config="true" duration-ms="805" started-at="2020-08-04T09:25:22 UTC" finished-at="2020-08-04T09:25:23 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.maventest.test.maventest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
